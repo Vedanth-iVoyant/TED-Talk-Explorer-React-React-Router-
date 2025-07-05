@@ -18,7 +18,7 @@ export const talks: Talk[] = [
       "Brené Brown studies human connection—our ability to empathize, belong, love.",
     tags: ["Psychology", "Connection", "Empathy"],
     duration: 20,
-    thumbnail: "https://i3.ytimg.com/vi/embed/iCvmsMzlF7o/maxresdefault.jpg",
+    thumbnail: "https://i.ytimg.com/vi/iCvmsMzlF7o/maxresdefault.jpg",
     videoUrl: "https://www.youtube.com/embed/iCvmsMzlF7o",
   },
   {
@@ -29,7 +29,8 @@ export const talks: Talk[] = [
       "Simon Sinek shares a simple but powerful model for inspirational leadership.",
     tags: ["Leadership", "Motivation", "Business"],
     duration: 18,
-    thumbnail: "https://i3.ytimg.com/vi/qp0HIF3SfI4/maxresdefault.jpg",
+    thumbnail:
+      "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/04916ee6e81065c8333e6546184af512eee37bbe_2880x1620.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82w=640",
     videoUrl: "https://www.youtube.com/embed/qp0HIF3SfI4",
   },
   {
@@ -40,7 +41,8 @@ export const talks: Talk[] = [
       "Sir Ken Robinson makes an entertaining case for creating an education system that nurtures creativity.",
     tags: ["Education", "Creativity"],
     duration: 19,
-    thumbnail: "https://i3.ytimg.com/vi/iG9CE55wbtY/maxresdefault.jpg",
+    thumbnail:
+      "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b6eb940bceab359ca676a9b486aae475c1df883_2880x1620.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=80&w=3840",
     videoUrl: "https://www.youtube.com/embed/iG9CE55wbtY",
   },
 ];

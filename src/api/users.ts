@@ -8,18 +8,12 @@ export interface User {
 export const users: User[] = [
   {
     id: "u1",
-    username: "guest",
-    password: "guest123",
-    role: "guest",
-  },
-  {
-    id: "u2",
     username: "user",
     password: "user123",
     role: "user",
   },
   {
-    id: "u3",
+    id: "u2",
     username: "admin",
     password: "admin123",
     role: "admin",

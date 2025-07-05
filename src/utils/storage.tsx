@@ -2,7 +2,7 @@ export interface User {
   id: string;
   username: string;
   password: string;
-  role: "guest" | "user" | "admin";
+  role: "user" | "admin";
 }
 
 export function getStoredUser(): User | null {

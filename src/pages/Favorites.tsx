@@ -325,7 +325,7 @@ export const Favorites = () => {
       )}
 
       {/* Add Custom CSS for hover effects */}
-      <style jsx>{`
+      <style>{`
         .ant-card:hover .play-overlay {
           opacity: 1 !important;
         }
